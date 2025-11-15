@@ -5,7 +5,7 @@ Entrega do Trabalho 2 - Aprendizado de Máquinas baseado em redes neurais - Tema
 Antonio Lucas Rodrigues  
 Gabriel de Albuquerque Façanha  
 Gabryella Eduarda Mattos Reis  
-Laura  
+Laura Couteiro Monteiro  
 Oliver de Souza Nunes  
 Navvab Portela Salehi  
 
