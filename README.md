@@ -1,22 +1,29 @@
 # Trabalho2_FIA
-✅Entrega do Trabalho 2 de Redes Neurais - Tema 1
+Entrega do Trabalho 2 - Aprendizado de Máquinas baseado em redes neurais - Tema 1
 
 👨‍🎓Grupo D(ES01) Participantes:  
-Antonio Rodrigues  
+Antonio Lucas Rodrigues  
 Gabriel Façanha  
 Gabryella  
-Laura  
-Navvab  
+Laura
+Oliver de Souza Nunes
+Navvab Portela Salehi  
 
 
 🩺 Projeto: Classificação de Doenças Cardíacas  
 
-O objetivo principal deste projeto é construir um modelo de classificação binária para prever a presença (1) ou ausência (0) de doença cardíaca em um paciente, utilizando uma Rede Neural Artificial (ANN) feedforward  
+A proposta fundamental deste trabalho consiste em implementar e treinar um modelo de aprendizado de máquina para a tarefa de classificação binária. Utilizando uma topologia de Rede Neural Artificial (RNA) feedforward, a meta é alcançar uma alta performance na previsão da variável de saída (doença cardíaca: presente ou ausente), a partir da análise de dados clínicos dos pacientes. 
 
 
 
 💔 Contexto do Problema  
 
-As doenças cardiovasculares são a principal causa de morte em todo o mundo, o que torna a detecção precoce um desafio crítico para a saúde pública. O modelo visa auxiliar nessa detecção a partir de dados clínicos.
+As Doenças Cardiovasculares representam uma parcela quantitativamente relevante quando analisadas sua relação entre o número de casos e suas respectivas fatalidades, sublinhando a importância vital da detecção precoce como um desafio prioritário para a saúde pública. Para enfrentar essa questão, o modelo proposto visa apoiar e otimizar o processo de diagnóstico utilizando a análise de dados clínicos.  
+
+
+
+✅ Resultados obtidos  
+
+
 
 
