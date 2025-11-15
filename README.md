@@ -3,10 +3,10 @@ Entrega do Trabalho 2 - Aprendizado de Máquinas baseado em redes neurais - Tema
 
 👨‍🎓Grupo D(ES01) Participantes:  
 Antonio Lucas Rodrigues  
-Gabriel Façanha  
-Gabryella  
-Laura
-Oliver de Souza Nunes
+Gabriel de Albuquerque Façanha  
+Gabryella Eduarda Mattos Reis  
+Laura  
+Oliver de Souza Nunes  
 Navvab Portela Salehi  
 
 
@@ -23,6 +23,8 @@ As Doenças Cardiovasculares representam uma parcela quantitativamente relevante
 
 
 ✅ Resultados obtidos  
+
+O projeto de classificação de doenças cardíacas utilizou uma Rede Neural Artificial (ANN) feedforward com 2 a 3 camadas ocultas para prever a presença ou ausência da doença com base em 13 atributos clínicos do dataset Heart Disease UCI. A normalização de características usando o StandardScaler foi um passo crucial , devido às grandes diferenças de escala entre os atributos (como age e chol) , garantindo a estabilidade e o bom desempenho da rede. A saída do modelo é um neurônio único com função de ativação sigmoide, que produz uma probabilidade de 0 a 1.
 
 
 
