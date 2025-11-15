@@ -1,0 +1,10 @@
+A eficácia do modelo de ANN é avaliada por métricas como Acurácia, Precisão e Recall, além da Matriz de Confusão. A estrutura do modelo, com 2 a 3 camadas ocultas e função de ativação ReLU , combinada com um neurônio de saída sigmoide , foi desenvolvida para capturar padrões complexos nos 13 atributos clínicos fornecidos.
+
+Um dos aprendizados mais críticos deste projeto é a importância da Normalização de Características.
+
+A aplicação do StandardScaler para padronizar a escala dos features  é um passo fundamental. Sem essa normalização, os neurônios de entrada ligados a features com valores maiores (como o colesterol) dominariam o processo de aprendizado, resultando em um treinamento instável e um desempenho pobre da ANN. A normalização garante que todas as características contribuam de forma equitativa para o cálculo dos gradientes, otimizando o treinamento da rede neural.
+
+Em suma, a capacidade preditiva da ANN, demonstrada pelas métricas de avaliação, valida o uso de modelos de Deep Learning para classificação binária em contextos de saúde, sendo a etapa de pré-processamento e normalização o pilar para que o modelo alcance seu bom desempenho.
+
+
+
